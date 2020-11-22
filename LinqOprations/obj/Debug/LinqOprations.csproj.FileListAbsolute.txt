@@ -1,0 +1,6 @@
+E:\SampleProjects\LinqOprations\LinqOprations\bin\Debug\LinqOprations.exe.config
+E:\SampleProjects\LinqOprations\LinqOprations\obj\Debug\LinqOprations.csprojResolveAssemblyReference.cache
+E:\SampleProjects\LinqOprations\LinqOprations\bin\Debug\LinqOprations.exe
+E:\SampleProjects\LinqOprations\LinqOprations\bin\Debug\LinqOprations.pdb
+E:\SampleProjects\LinqOprations\LinqOprations\obj\Debug\LinqOprations.exe
+E:\SampleProjects\LinqOprations\LinqOprations\obj\Debug\LinqOprations.pdb
